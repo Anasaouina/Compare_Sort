@@ -64,13 +64,14 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install numpy matplotlib
+````
 
-## How to Run
 
- **Run the script:**
-```sh
-python sorting_comparison.py
-```
+**Run the script:**
+
+   ```bash
+   python compare_sort_viz.py
+   ```
 
 3. **View the graph** showing the execution time of each sorting algorithm.
 
@@ -79,8 +80,7 @@ python sorting_comparison.py
 📌 **Merge & Quick Sort** → Faster due to efficient divide-and-conquer techniques.
 📌 **Quick Sort** may outperform **Merge Sort** in some cases.
 
-## Sample Graph
-![Sorting Algorithm Performance Graph](example_graph.png)
+
 
 ## License
 This project is open-source and available under the MIT License.

@@ -10,10 +10,8 @@ This project provides a Python script to compare the performance of four popular
 3. [How It Works](#how-it-works)
 4. [Requirements](#requirements)
 5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
+6. [Expected Insights](#Expected-Insights)
 8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -66,6 +64,7 @@ You can install these dependencies using `pip`:
 pip install numpy matplotlib
 ````
 
+## Usage
 
 **Run the script:**
 
@@ -73,11 +72,13 @@ pip install numpy matplotlib
    python compare_sort_viz.py
    ```
 
-3. **View the graph** showing the execution time of each sorting algorithm.
+**View the graph** showing the execution time of each sorting algorithm.
 
 ## Expected Insights
 📌 **Bubble & Insertion Sort** → Slow for large datasets due to high time complexity.
+
 📌 **Merge & Quick Sort** → Faster due to efficient divide-and-conquer techniques.
+
 📌 **Quick Sort** may outperform **Merge Sort** in some cases.
 
 

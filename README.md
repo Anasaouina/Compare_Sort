@@ -11,7 +11,7 @@ This project provides a Python script to compare the performance of four popular
 4. [Requirements](#requirements)
 5. [Usage](#usage)
 6. [Expected Insights](#Expected-Insights)
-8. [License](#license)
+7. [License](#license)
 
 ---
 
